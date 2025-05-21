@@ -16,7 +16,7 @@ It was inspired by a simple idea: _What if investing your $7 a day coffee day co
 
 ### 🔨 What I'm Working On
 
-- 🚀 [**ROI Habit Calculator**](https://weaknessinvestmentcalculator2-0-qeq66jejq.vercel.app)  
+- 🚀 [**ROI Habit Calculator**](https://roi-habit-calculator.netlify.app/) 
   > React, TypeScript, TailwindCSS, Vite,
   > 🌱 [Invest with Acorns – get $5 bonus](https://www.acorns.com/share/?first_name=Gerrit&shareable_code=QM3PVD3)
   > Built with AI tools: ChatGPT (4), Claude, Tempo Labs, Replit  
