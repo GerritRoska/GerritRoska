@@ -5,7 +5,7 @@ Currently working at the intersection of Faith, AI, Blockhain, BAM and fun thing
 
 ---
 
-### 🧠 About Me
+###  About Me
 
 I'm a Liberty University grad student passionate about helping people and creating beautiful things that improve, impact and inspire peoples lives.
 
@@ -14,34 +14,33 @@ It was inspired by a simple idea: _What if investing your $7 a day coffee day co
 
 ---
 
-### 🔨 What I'm Working On
+###  What I'm Working On
 
-- 🚀 [**ROI Habit Calculator**](https://roi-habit-calculator.netlify.app/) 
+-  [**ROI Habit Calculator**](https://roi-habit-calculator.netlify.app/) 
   > React, TypeScript, TailwindCSS, Vite,
-  > 🌱 [Invest with Acorns – get $5 bonus](https://www.acorns.com/share/?first_name=Gerrit&shareable_code=QM3PVD3)
+  >  [Invest with Acorns – get $5 bonus](https://www.acorns.com/share/?first_name=Gerrit&shareable_code=QM3PVD3)
   > Built with AI tools: ChatGPT (4), Claude, Tempo Labs, Replit  
   > Hosted on Netify + shared on GitHub + LinkedIn  
-- 🎯 Collaborating with [**Replit**](https://replit.com/~) on product & behavioral tools  
-- 🐍 Learning **Python** and backend integrations with Supabase
+-  Collaborating with [**Replit**](https://replit.com/~) on product & behavioral tools  
+-  Learning **Python** and backend integrations with Supabase
 
 ---
 
 ### 🧪 Ongoing Projects and Experiments  
 
-- 😉 Working on a stealth startup -- **A.I. + Blockchain + Faith + Investing**
-- 💡 Building and testing product ideas with **LLM's**  
-- 🎨 Collaborating with **Replit** on UX and content tools  
-- 📊 Exploring AI-based personalization for user tools
+-  Working on a stealth startup -- **A.I. + Blockchain + Faith + Investing**
+-  Building and testing product ideas with **LLM's**  
+-  Collaborating with **Replit** on UX and content tools  
+-  Exploring AI-based personalization for user tools
 
 ---
 
-### 🛠 Tech & Tools
+###  Tech & Tools
 
-### 🛠 Tech & Skills Overview
+###  Tech & Skills Overview
 
 | Category            | Stack & Skills                                                                 |
-|---------------------|---------------------------------------------------------------------------------|
-| **Frontend (Learning )**         | React, TypeScript, TailwindCSS, Vite                                           |
+|---------------------|---------------------------------------------------------------------------------|                                   |
 | **Hosting**          | Vercel, Netlify                                                                |
 | **AI Tools**         | ChatGPT 4, Claude, Replit, Tempo Labs, Lovable, Custom GPTs                                     |
 | **Backend (Learning)** | Supabase, SQL,                                                |
@@ -54,9 +53,9 @@ It was inspired by a simple idea: _What if investing your $7 a day coffee day co
 
 ### 📚 Education
 
-- 🎓 Master’s in Christian Ministry, LU Seminary (2025)  
-- 🎓 B.S. in Business + Entrepreneurship, Liberty University  
-- 📊 Getting Certificate in Applied Data Science, WorldQuant University
+-  Master’s in Christian Ministry, LU Seminary (2025)  
+-  B.S. in Business + Entrepreneurship, Liberty University  
+-  Getting Certificate in Applied Data Science, WorldQuant University
 
 ---
 
