@@ -39,13 +39,15 @@ It was inspired by a simple idea: _What if investing your $7 a day coffee day co
 
 ###  Tech & Skills Overview
 
-| Category            | Stack & Skills                                                                 |
-|---------------------|---------------------------------------------------------------------------------|                                   |
-| **Hosting**          | Vercel, Netlify                                                                |
-| **AI Tools**         | ChatGPT 4, Claude, Replit, Tempo Labs, Lovable, Custom GPTs                                     |
-| **Backend (Learning)** | Supabase, SQL,                                                |
-| **Data & Analysis**  | Python (Beginner), Excel, Microsoft 360 suite (learning data wrangling, predictive modeling via WorldQuant)            |
-| **CRM & Ops**        | HubSpot, Airtable, email outreach, pipeline tracking, Go High Level                             |
+## 🛠️ Tech Stack & Skills
+
+| **Category**         | **Stack & Skills**                                                                                      |
+|----------------------|--------------------------------------------------------------------------------------------------------|
+| **Hosting**          | Vercel, Netlify                                                                                        |
+| **AI Tools**         | ChatGPT-4, Claude, Replit, Tempo Labs, Lovable, Custom GPTs                                            |
+| **Backend (Learning)** | Supabase, SQL                                                                                          |
+| **Data & Analysis**  | Python (Beginner), Excel, Microsoft 360 Suite (data wrangling & predictive modeling via WorldQuant)    |
+| **CRM & Ops**        | HubSpot, Airtable, email outreach, pipeline tracking, Go High Level                                     |
 | **Soft Skills**      | Leadership, Communication, Collaboration, Fundraising Strategy, Time Management, UX Writing, Public Speaking, Ministry Engagement, Entrepreneurship, Presentation Skills |
 
 
