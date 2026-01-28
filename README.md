@@ -1,79 +1,82 @@
 # 👋 Hey, I'm Gerrit Roska
-
-**Christ-follower | Builder | Lifelong learner**  
-Currently working at the intersection of Faith, AI, Blockhain, BAM and fun things too
-
----
-
-###  About Me
-
-I'm a Liberty University grad student passionate about helping people and creating beautiful things that improve, impact and inspire peoples lives.
-
-I recently built the **[ROI Habit Calculator](https://github.com/GerritRoska/ROIHabitCalculator)** — a financial behavior tool that visualizes how small habits (like skipping coffee or fast food) can compound into real wealth.  
-It was inspired by a simple idea: _What if investing your $7 a day coffee day could change your future?
+**iOS Engineer | Christ-follower | Building [Ithiel](https://ithiel.co)**  
+Shipping SwiftUI apps and building products at the intersection of Faith, AI, and tech
 
 ---
 
-###  What I'm Working On
+## 🧑‍💻 About Me
+iOS developer who ships apps. Launched **FlowState** (productivity app) to the App Store in 12 weeks. Currently on Day 43 of 100 Days of SwiftUI, having completed 10+ hands-on iOS projects. 
 
--  [**ROI Habit Calculator**](https://roi-habit-calculator.netlify.app/) 
-  > React, TypeScript, TailwindCSS, Vite,
-  >  [Invest with Acorns – get $5 bonus](https://www.acorns.com/share/?first_name=Gerrit&shareable_code=QM3PVD3)
-  > Built with AI tools: ChatGPT (4), Claude, Tempo Labs, Replit  
-  > Hosted on Netify + shared on GitHub + LinkedIn  
--  Collaborating with [**Replit**](https://replit.com/~) on product & behavioral tools  
--  Learning **Python** and backend integrations with Supabase
+My background in Business and Christian Ministry means I build products that serve people, not just check feature boxes. I think product-first, then figure out the code.
+
+Currently building **[Ithiel](https://ithiel.co)** — my freelance iOS development business helping entrepreneurs ship MVPs fast.
 
 ---
 
-### 🧪 Ongoing Projects and Experiments  
+## 🚀 What I'm Working On
 
--  Working on a stealth startup -- **A.I. + Blockchain + Faith + Investing**
--  Building and testing product ideas with **LLM's**  
--  Collaborating with **Replit** on UX and content tools  
--  Exploring AI-based personalization for user tools
+### [**FlowState**](https://apps.apple.com/app/flowstate) — iOS Productivity App
+> **Swift, SwiftUI, SwiftData, UserNotifications**  
+> Designed and shipped entire productivity timer app in 12 weeks as solo developer  
+> Features: Custom circular timer animations, background notifications, session history tracking, dark mode  
+> **Live on App Store** | GitHub: Private (available upon request)
 
----
+### **100 Days of SwiftUI** 
+> Building mini iOS apps covering animations, data persistence, API calls, forms, navigation, state management  
+> 10+ projects completed, all documented on GitHub  
+> [View Projects →](https://github.com/GerritRoska/100DaysOfSwift-Projects)
 
-###  Tech & Tools
-
-###  Tech & Skills Overview
-
-## 🛠️ Tech Stack & Skills
-
-| **Category**         | **Stack & Skills**                                                                                      |
-|----------------------|--------------------------------------------------------------------------------------------------------|
-| **Hosting**          | Vercel, Netlify                                                                                        |
-| **AI Tools**         | ChatGPT-4, Claude, Replit, Tempo Labs, Lovable, Custom GPTs                                            |
-| **Backend (Learning)** | Supabase, SQL                                                                                          |
-| **Data & Analysis**  | Python (Beginner), Excel, Microsoft 360 Suite (data wrangling & predictive modeling via WorldQuant)    |
-| **CRM & Ops**        | HubSpot, Airtable, email outreach, pipeline tracking, Go High Level                                     |
-| **Soft Skills**      | Leadership, Communication, Collaboration, Fundraising Strategy, Time Management, UX Writing, Public Speaking, Ministry Engagement, Entrepreneurship, Presentation Skills |
-
+### [**ROI Habit Calculator**](https://roi-habit-calculator.netlify.app/)
+> **React, TypeScript, TailwindCSS, Vite**  
+> Interactive behavioral finance tool visualizing how daily habits compound into real wealth  
+> Built with AI tools (ChatGPT, Claude, Replit), hosted on Netlify  
+> 1,200+ impressions on LinkedIn  
+> [Live Demo](https://roi-habit-calculator.netlify.app/) | [Code](https://github.com/GerritRoska/ROIHabitCalculator)  
+> [Invest with Acorns – get $5 bonus](https://www.acorns.com/share/?first_name=Gerrit&shareable_code=QM3PVD3)
 
 ---
 
-### 📚 Education
+## 🛠️ Tech Stack & Tools
 
--  Master’s in Christian Ministry, LU Seminary (2025)  
--  B.S. in Business + Entrepreneurship, Liberty University  
--  Getting Certificate in Applied Data Science, WorldQuant University
+| **Category** | **Stack & Skills** |
+|--------------|-------------------|
+| **iOS Development** | Swift, SwiftUI, SwiftData, UserNotifications, Xcode, TestFlight, App Store deployment |
+| **AI & APIs** | OpenAI API, Claude API, prompt engineering, JSON parsing |
+| **Frontend** | React, TypeScript, TailwindCSS, Vite |
+| **Tools** | Git/GitHub, Figma, Notion, Google Analytics, Replit |
+| **Hosting** | Netlify, Vercel |
+| **Backend (Learning)** | Supabase, SQL, Python |
+| **Concepts** | MVC patterns, data persistence, async/await, API integration |
+| **CRM & Ops** | HubSpot, Airtable, Go High Level |
+| **Soft Skills** | Product thinking, UX, leadership, communication, fundraising, entrepreneurship |
 
 ---
 
-### Interests 
+## 📚 Education
 
-DeFi, Blockchain, AI, Weightlifting, Soccer, Reading, Spiritual Formation, Discipleship, Business As Missions
+- **B.S. in Software Engineering** — Western Governors University *(In Progress, 2026)*
+- **M.A. in Christian Ministry** — Liberty University Theological Seminary *(2024-2025)*
+- **B.S. in Business & Entrepreneurship** — Liberty University *(2022-2024)*
+  - D1 Crew athlete (Rowing), ENACTUS, Dean's List
 
-### 💬 Let’s Connect
+**Certifications:** ICBLA (Blockchain Analysis & Legal Compliance), AAUS Scientific Scuba, CPR
 
-I'm always up for deep conversations, building smart tools, or collaborating with mission-driven teams.
+---
 
-📫 [Email](mailto:gerritroska@gmail.com)  
+## 💡 Interests
+Faith-tech, iOS development, AI-powered consumer apps, productivity tools, DeFi, Blockchain, weightlifting, soccer, reading, Spiritual Formation, Discipleship, Business As Missions
+
+---
+
+## 💬 Let's Connect
+Open to iOS development opportunities, faith-tech collaborations, and working with mission-driven teams.
+
+📧 [Email](mailto:gerritroska@gmail.com)  
 💼 [LinkedIn](https://www.linkedin.com/in/gerritroska)  
+🚀 [Ithiel — Freelance iOS Development](https://ithiel.co)  
+💻 [GitHub](https://github.com/GerritRoska)
 
 ---
 
-A hobby of mine is collecting really wise (or funny) quotes i hear, so ill add one here, feel free to stop by every once and a while when i change it for a new one
-> “You were made on purpose, for a purpose — and that purpose begins with knowing the One who made you.”   
-> — *Probably me.*
+> "You were made on purpose, for a purpose — and that purpose begins with knowing the One who made you."  
+> — Gerrit Roska
