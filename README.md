@@ -15,6 +15,11 @@ Currently building **[Ithiel](https://ithiel.co)** — my freelance iOS developm
 
 ## 🚀 What I'm Working On
 
+### [**PulseCheck**](https://github.com/GerritRoska/PulseChecker) — Real-Time Location-Based Q&A
+> **SwiftUI, Supabase, MapKit, Firebase**  
+> Built in 3 days for a client proposal. Production-ready iOS app: real-time, location-based Q&A + live updates feed — "ground truth from real people, in real time." Ask about a place, get answers from people physically there. GPS verification, photo check-in, trending places, native maps.  
+> [Code](https://github.com/GerritRoska/PulseChecker)
+
 ### [**FlowState**](https://apps.apple.com/app/flowstate) — iOS Productivity App
 > **Swift, SwiftUI, SwiftData, UserNotifications**  
 > Designed and shipped entire productivity timer app in 12 weeks as solo developer  
