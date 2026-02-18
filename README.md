@@ -1,93 +1,102 @@
 # 👋 Hey, I'm Gerrit Roska
-**iOS Engineer | Christ-follower | Building [Ithiel](https://ithiel.co)**  
-Shipping SwiftUI apps and building products at the intersection of Faith, AI, and tech
+**iOS Engineer · Founder of [Ithiel](https://ithiel.co) · Christ-follower**  
+I build native iOS MVPs at startup speed — shipped to the TestFlight in 7–14 days.
 
 ---
 
-## 🧑‍💻 About Me
-iOS developer who ships apps. Launched **FlowState** (productivity app) to the App Store in 12 weeks. Currently on Day 43 of 100 Days of SwiftUI, having completed 10+ hands-on iOS projects. 
+##  Ithiel — iOS MVP Studio
+**[ithiel.co](https://ithiel.co)**
 
-My background in Business and Christian Ministry means I build products that serve people, not just check feature boxes. I think product-first, then figure out the code.
+I run Ithiel, a iOS App development studio for non-technical founders who need to ship fast.
 
-Currently building **[Ithiel](https://ithiel.co)** — my freelance iOS development business helping entrepreneurs ship MVPs fast.
+- Native SwiftUI apps in 7–14 days
+- $5K–$10K fixed-scope engagements
+- From zero to TestFlight, in one or two weeks
+- Built for bootstrapped founders who can't wait 6 months for a dev shop
+
+> If you have an iOS idea and need a builder who thinks product-first, let's talk.
 
 ---
 
-## 🚀 What I'm Working On
+##  What I'm Building
 
- ### [**ENT Scribe**](https://github.com/gerritroska/ent-scribe) - open-source ambient AI medical scribe for ENT physicians. 
- > It records patient visits, transcribes audio via OpenAI Whisper, and generates structured
- > clinical notes using GPT-4o — ready to paste into any EHR. Built with Next.js 16,
- > TypeScript, and Tailwind CSS. [Live demo](https://ent-scribe.vercel.app) ·
- > [GitHub](https://github.com/gerritroska/ent-scribe)
+### [ENT Scribe](https://github.com/gerritroska/ent-scribe) — Ambient AI Medical Scribe *(Open Source)*
+> **Next.js 16 · TypeScript · Tailwind CSS · OpenAI Whisper + GPT-4o**  
+> Records patient visits, transcribes audio, generates structured clinical notes ready to paste into any EHR.  
+> [Live Demo](https://ent-scribe.vercel.app) · [GitHub](https://github.com/gerritroska/ent-scribe)
 
-### [**PulseCheck**](https://github.com/GerritRoska/PulseChecker) — Real-Time Location-Based Q&A
-> **SwiftUI, Supabase, MapKit, Firebase**  
-> Built in 5 days for a client proposal. Production-ready iOS app: real-time, location-based Q&A + live updates feed — "ground truth from real people, in real time." Ask about a place, get answers from people physically there. GPS verification, photo check-in, trending places, native maps.  
+### [PulseCheck](https://github.com/GerritRoska/PulseChecker) — Real-Time Location-Based Q&A
+> **SwiftUI · Supabase · MapKit · Firebase**  
+> Built in 5 days as a client proposal. Ask about a place, get answers from people physically there. GPS verification, photo check-in, trending locations, live updates feed.  
 > [Code](https://github.com/GerritRoska/PulseChecker)
 
-### [**FlowState**](https://apps.apple.com/app/flowstate) — iOS Productivity App
-> **Swift, SwiftUI, SwiftData, UserNotifications**  
-> Designed and shipped entire productivity timer app in 12 weeks as solo developer  
-> Features: Custom circular timer animations, background notifications, session history tracking, dark mode  
-> **Live on App Store** | GitHub: Private (available upon request)
+### [FlowState](https://apps.apple.com/app/flowstate) — iOS Productivity App *(Live on App Store)*
+> **Swift · SwiftUI · SwiftData · UserNotifications**  
+> Solo-built productivity timer: custom circular animations, background notifications, session history, dark mode. Shipped in 12 weeks.
 
-### **100 Days of SwiftUI** 
-> Building mini iOS apps covering animations, data persistence, API calls, forms, navigation, state management  
-> 10+ projects completed, all documented on GitHub  
-> [View Projects →](https://github.com/GerritRoska/100DaysOfSwift-Projects)
+### [Discipler](https://github.com/GerritRoska/discipler.io-app) — AI-Powered Spiritual Formation Platform MVP
+> **TypeScript**  
+> Next-generation discipleship platform making personalized, daily spiritual formation accessible to every Christian — individuals, small groups, or churches.  
+> [Code](https://github.com/GerritRoska/discipler.io-app)
 
-### [**ROI Habit Calculator**](https://roi-habit-calculator.netlify.app/)
-> **React, TypeScript, TailwindCSS, Vite**  
-> Interactive behavioral finance tool visualizing how daily habits compound into real wealth  
-> Built with AI tools (ChatGPT, Claude, Replit), hosted on Netlify  
-> 1,200+ impressions on LinkedIn  
-> [Live Demo](https://roi-habit-calculator.netlify.app/) | [Code](https://github.com/GerritRoska/ROIHabitCalculator)  
-> [Invest with Acorns – get $5 bonus](https://www.acorns.com/share/?first_name=Gerrit&shareable_code=QM3PVD3)
 
----
+### [Onboarding ROI Calculator](https://github.com/GerritRoska/Onboardingroicalculator) — iOS App Revenue Modeling Tool
+> **TypeScript · CSS · Vite · Netlify**  
+> Interactive calculator that models how improving onboarding (conversion rate + Day 30 retention) compounds into annual subscription revenue — built on iOS fitness app benchmarks.  
+> [Live Demo](https://onboardingcalculator.netlify.app) · [Code](https://github.com/GerritRoska/Onboardingroicalculator)
 
-## 🛠️ Tech Stack & Tools
+### [WeSplit](https://github.com/GerritRoska/WeSplit-project) — iOS Bill Splitter
+> **Swift**  
+> Simple native iOS app for splitting the check. Built as part of 100 Days of SwiftUI.  
+> [Code](https://github.com/GerritRoska/WeSplit-project)
 
-| **Category** | **Stack & Skills** |
-|--------------|-------------------|
-| **iOS Development** | Swift, SwiftUI, SwiftData, UserNotifications, Xcode, TestFlight, App Store deployment |
-| **AI & APIs** | OpenAI API, Claude API, prompt engineering, JSON parsing |
-| **Frontend** | React, TypeScript, TailwindCSS, Vite |
-| **Tools** | Git/GitHub, Figma, Notion, Google Analytics, Replit |
-| **Hosting** | Netlify, Vercel |
-| **Backend (Learning)** | Supabase, SQL, Python |
-| **Concepts** | MVC patterns, data persistence, async/await, API integration |
-| **CRM & Ops** | HubSpot, Airtable, Go High Level |
-| **Soft Skills** | Product thinking, UX, leadership, communication, fundraising, entrepreneurship |
+### [ROI Habit Calculator](https://roi-habit-calculator.netlify.app/) — Behavioral Finance Tool
+> **React · TypeScript · TailwindCSS · Vite**  
+> Shows how daily habits compound into long-term wealth. 1,200+ LinkedIn impressions.  
+> [Live Demo](https://roi-habit-calculator.netlify.app/) · [Code](https://github.com/GerritRoska/ROIHabitCalculator)
+
+### [100 Days of SwiftUI](https://github.com/GerritRoska/100DaysOfSwift-Projects)
+> 10+ mini iOS apps covering animations, persistence, API calls, navigation, state management — all on GitHub.
 
 ---
 
-## 📚 Education
+##  Stack
 
-- **B.S. in Software Engineering** — Western Governors University *(In Progress, 2026)*
-- **M.A. in Christian Ministry** — Liberty University Theological Seminary *(2024-2025)*
-- **B.S. in Business & Entrepreneurship** — Liberty University *(2022-2024)*
-  - D1 Crew athlete (Rowing), ENACTUS, Dean's List
-
-**Certifications:** ICBLA (Blockchain Analysis & Legal Compliance), AAUS Scientific Scuba, CPR
+| Category | Tools |
+|---|---|
+| iOS | Swift, SwiftUI, SwiftData, UserNotifications, MapKit, Xcode, TestFlight, App Store |
+| AI / APIs | OpenAI API, Claude API, Whisper, GPT-4o, prompt engineering |
+| Backend | Supabase, Firebase, SQL |
+| Frontend | React, TypeScript, TailwindCSS, Vite |
+| Infra | Netlify, Vercel, Git/GitHub |
+| Tools | Figma, Notion, HubSpot, Airtable, Excel |
 
 ---
 
-## 💡 Interests
+##  Education
+
+- **B.S. Software Engineering** — Western Governors University *(In Progress, 2026)*
+- **M.A. Christian Ministry** — Liberty University Theological Seminary *(2024–2025)*
+- **B.S. Business & Entrepreneurship** — Liberty University *(2022–2024)* · D1 Crew, Dean's List
+
+---
+
+##  Interests
 Faith-tech, iOS development, AI-powered consumer apps, productivity tools, DeFi, Blockchain, weightlifting, soccer, reading, Spiritual Formation, Discipleship, Business As Missions
 
 ---
 
 ## 💬 Let's Connect
-Open to iOS development opportunities, faith-tech collaborations, and working with mission-driven teams.
 
-📧 [Email](mailto:gerritroska@gmail.com)  
+Open to iOS contracts, Ithiel client work, and faith-tech collaborations with mission-driven teams.
+
+📧 [gerritroska@gmail.com](mailto:gerritroska@gmail.com)  
 💼 [LinkedIn](https://www.linkedin.com/in/gerritroska)  
-🚀 [Ithiel — Freelance iOS Development](https://ithiel.co)  
+🚀 [Ithiel](https://ithiel.co)  
 💻 [GitHub](https://github.com/GerritRoska)
 
 ---
 
 > "You were made on purpose, for a purpose — and that purpose begins with knowing the One who made you."  
 > — Gerrit Roska
+
