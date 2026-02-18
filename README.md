@@ -15,9 +15,15 @@ Currently building **[Ithiel](https://ithiel.co)** — my freelance iOS developm
 
 ## 🚀 What I'm Working On
 
+ ### [**ENT Scribe**](https://github.com/gerritroska/ent-scribe) - open-source ambient AI medical scribe for ENT physicians. 
+ > It records patient visits, transcribes audio via OpenAI Whisper, and generates structured
+ > clinical notes using GPT-4o — ready to paste into any EHR. Built with Next.js 16,
+ > TypeScript, and Tailwind CSS. [Live demo](https://ent-scribe.vercel.app) ·
+ > [GitHub](https://github.com/gerritroska/ent-scribe)
+
 ### [**PulseCheck**](https://github.com/GerritRoska/PulseChecker) — Real-Time Location-Based Q&A
 > **SwiftUI, Supabase, MapKit, Firebase**  
-> Built in 3 days for a client proposal. Production-ready iOS app: real-time, location-based Q&A + live updates feed — "ground truth from real people, in real time." Ask about a place, get answers from people physically there. GPS verification, photo check-in, trending places, native maps.  
+> Built in 5 days for a client proposal. Production-ready iOS app: real-time, location-based Q&A + live updates feed — "ground truth from real people, in real time." Ask about a place, get answers from people physically there. GPS verification, photo check-in, trending places, native maps.  
 > [Code](https://github.com/GerritRoska/PulseChecker)
 
 ### [**FlowState**](https://apps.apple.com/app/flowstate) — iOS Productivity App
